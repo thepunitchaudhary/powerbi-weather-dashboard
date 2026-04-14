@@ -2,7 +2,7 @@
 
 ## 📌 About the Project
 
-I built this Power BI dashboard to understand and visualize weather data in a simple and interactive way. The goal was to combine multiple weather parameters like temperature, air quality, humidity, and forecast into a single view so that users can quickly get useful insights.
+I built this Power BI dashboard to explore and present weather data in an interactive way. The idea was to bring together multiple parameters like temperature, air quality, humidity, and forecast into a single dashboard so users can quickly understand overall weather conditions.
 
 ---
 
@@ -15,20 +15,45 @@ I built this Power BI dashboard to understand and visualize weather data in a si
 * Sunrise and sunset timings
 * Other metrics like humidity, wind speed, pressure, and visibility
 
+This dashboard helps in quickly analyzing weather conditions and making informed decisions based on trends and forecasts.
+
 ---
 
 ## 🛠️ Tools Used
 
 * Power BI
-* DAX (for calculated measures)
-* Data modeling
+* DAX (Data Analysis Expressions)
+* Data Modeling
 
 ---
 
 ## 📷 Dashboard Preview
 
-<img width="1920" height="1080" alt="Screenshot (633)" src="https://github.com/user-attachments/assets/284d871b-1da5-4843-b96f-1b2c7b209ac1" />
+### Main Dashboard
 
+![Dashboard](Dashboard/img.png)
+
+### Forecast & Trends
+
+![Forecast](Dashboard/img1.png)
+
+### Air Quality & Metrics
+
+![AQI](Dashboard/img3.png)
+
+### Additional Insights
+
+![More Insights](Dashboard/img4.png)
+
+---
+
+## ▶️ How to Use
+
+1. Download the `weather.pbix` file
+2. Open it using Power BI Desktop
+3. Explore the dashboard and interact with visuals
+
+> Note: Power BI Desktop is required to view the file.
 
 ---
 
@@ -47,7 +72,7 @@ While working on this project, I got hands-on experience with:
 
 * Managing layout and spacing for better UI
 * Choosing the right visuals for each metric
-* Making the dashboard look clean without overcrowding
+* Making the dashboard clean without overcrowding
 
 ---
 
@@ -62,11 +87,10 @@ While working on this project, I got hands-on experience with:
 ## 📁 Files
 
 * `weather.pbix` → Power BI dashboard file
+* `Dashboard/` → Screenshots of dashboard
 
 ---
 
-## 🤝 Connect
+## ⭐ If you found this useful
 
-If you have any suggestions or feedback, feel free to reach out.
-
----
+Feel free to star the repository!
